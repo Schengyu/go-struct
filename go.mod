@@ -1,4 +1,4 @@
-module github.com/korb1n/test-project
+module github.com/Schengyu/go-struct
 
 go 1.24.1
 
